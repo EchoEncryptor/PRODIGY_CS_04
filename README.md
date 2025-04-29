@@ -113,6 +113,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 - Log file encryption
 - Cross-platform support (Linux/macOS)
 
----
-
-Let me know if you want help with **turning this into a background service**, **adding stealth mode**, or **log encryption**.
